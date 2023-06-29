@@ -394,9 +394,9 @@ class CheckerBoard:
         """
         Promotes a regular piece to a king or a king to a triple king.
         """
-        if dest_row == 0 and ("Black" not in piece and "White_king" not in piece):
+        if dest_row == 0 and (piece != "Black_click" and piece != "White_king_click"):
             return
-        elif dest_row == 7 and ("White" not in piece and "Black_king" not in piece):
+        elif dest_row == 7 and (piece != "White_click" and piece!= "Black_king_click"):
             return
 
         if "Black" in piece:
