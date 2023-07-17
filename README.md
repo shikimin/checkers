@@ -1,6 +1,6 @@
 # Checkers!
 
-A simple 2-player game of checkers (AKA draughts). Created using Python and the Pygame library.
+A simple 2-player game of checkers (AKA draughts). Created using Python (v 3.11.3) and Pygame library (v. 2.5.0).
 
 ![checkers_readme_1](https://github.com/shikimin/checkers/assets/104809403/c84c4a33-e430-42e3-98ea-9d4e2c9c65d0)&emsp;&emsp;![checkers_readme_2](https://github.com/shikimin/checkers/assets/104809403/75127e72-3143-4c10-8eed-a75ad340fa17)
 
